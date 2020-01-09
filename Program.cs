@@ -7,6 +7,7 @@ namespace textFil
     {
         static void Main(string[] args)
         {
+            //Exempelkommentaren
             Console.WriteLine("***** Exempel med StreamWriter *****");
             try
             {
